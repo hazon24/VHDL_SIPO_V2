@@ -1,2 +1,2 @@
 # VHDL_SIPO_V2
-VHDL project for the course "SISTEMI ELETTRONICI DIGITALI" at Politecnico di milano
+N-bit SIPO shift register (currently 4-bit), this time made with the use of the process.
